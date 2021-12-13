@@ -10,4 +10,4 @@ Discord bot that sends random images from internet
 
 
 This is my first real project in python i tried my best Im sure that this program is not 100% perfect
-also I want to thank to https://github.com/Ccondir for help
+also I want to thank https://github.com/Ccondir for help
