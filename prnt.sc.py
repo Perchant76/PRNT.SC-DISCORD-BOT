@@ -18,6 +18,7 @@ def abc():
 	@client.event
 	async def on_ready():
 		print ("We are allready logged in as {0.user}".format(client))
+		await bot.change_presence(activity=discord.CustomActivity(name='&help- show help' ,emoji='🖥️'))
 	@client.event
 	async def on_message(message):
 		if message.author == client.user:
