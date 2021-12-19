@@ -4,7 +4,7 @@ import time
 from discord import channel
 
 # there you can insert your discord token
-token = ("OTE5MzUxMjQ4OTkyNTAxNzgw.YbUikg.wAD9a5PXq4PcAXoh1SK8tGInawk")
+token = ("ENTER YOUR TOKEN HERE")
 # this is the prnt.sc url that we use to create full link
 prnt_sc = ("https://prnt.sc/")
 # protocol
